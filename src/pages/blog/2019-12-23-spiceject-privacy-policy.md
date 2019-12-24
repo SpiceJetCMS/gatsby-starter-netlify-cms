@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Spiceject Privacy Policy
+title: Spicejet Privacy Policy
 date: 2019-12-23T19:35:51.846Z
 description: >-
   We, at SpiceJet, value the relationship we have with our customers and web
